@@ -4,7 +4,7 @@ Understood. Here's a condensed list focusing on Angular, Node.js, JavaScript, an
 
 | S.No | Concept                         |
 |------|---------------------------------|
-| 1    | Arrow Functions                 |
+| 1    | [Arrow Functions](#concept1-arrow-functions)   |
 | 2    | Destructuring                   |
 | 3    | Spread/Rest Operators          |
 | 4    | Classes                         |
